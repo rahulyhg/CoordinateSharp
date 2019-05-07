@@ -8,7 +8,6 @@ CoordinateSharp is a simple .NET library that is designed to assist with geograp
 
 <b>ANNOUNCEMENT:</b> v2.1.1.1 development is underway. This version is going to focus on simplifying constructors, better management of circular references and property change notification. It is also going to focus on proper assignment of user mutable vs user immutable properties. Tests will be expanded. Lastly, code examples are going to be provided in the library documentation in order to give developers a more standard documentation experience outside of the Developer Guide. This version should give the user an even simpler experience when using CoordinateSharp. The license for this library is also going to change with the release of v2.1.1.1. Please review the [Licensing Change / Transfer of Ownership Issue](https://github.com/Tronald/CoordinateSharp/issues/93) for more info.
 
-Please review our upcoming [licensing change issue](https://github.com/Tronald/CoordinateSharp/issues/93).
 
 Change notes can be viewed [here](https://www.coordinatesharp.com/ChangeNotes)
 
